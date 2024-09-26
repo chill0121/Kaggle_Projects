@@ -1,8 +1,8 @@
 # Kaggle Project Repository
 
-Repository to house any casual tinkering in Kaggle competitions. 
+Repository to house any casual tinkering in Kaggle competitions. Used mainly to lightly explore different data techniques.
 
-Used mainly to lightly explore different data techniques.
+See the list below for a short summary of each mini-project.
 
 ## NLP_Disaster_Tweets
 
