@@ -15,3 +15,9 @@ This project is an exploration of deep learning techniques in the natural langua
 Competition Source: https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
 
 This project is will take a Whole Slide Imaging (WSI) patches of lymphatic tissue in combination with Convolutional Neural Networks (CNNs) to classify metastatic cancer. The focus of this project will be building a CNN and iterate through optimizing its architecture and hyperparameter tuning. Given the size of this dataset, a secondary focus of this project will be using a subset of the dataset to perform model tuning and selection on local hardware to then hopefully generalize well enough to be performant on the full test set.
+
+## Adversarial Painting
+
+Competition Source: https://www.kaggle.com/competitions/gan-getting-started/overview
+
+[Description]
