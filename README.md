@@ -20,4 +20,4 @@ This project is will take a Whole Slide Imaging (WSI) patches of lymphatic tissu
 
 Competition Source: https://www.kaggle.com/competitions/gan-getting-started/overview
 
-[Description]
+This project aims to build a Deep Convolutional Generative Adversarial Network (DCGAN) that trains on images of Monet paintings to capture their qualities and then generate Monet-esque images. Several techniques will be showcased such as image augmentation for training diversification, an iterative approach to DCGAN architecture resulting in multiple model runs and submissions, and a discussion on common issues that can arise during GAN training.
